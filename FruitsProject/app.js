@@ -4,7 +4,7 @@
 const MongoClient = require("mongodb").MongoClient;
 const assert = require("assert");
 
-// Replace the uri string with your MongoDB deployment's connection string.
+// Replace the uri string with your MongoDB deployment's connection string.....
 const url ="mongodb://localhost:27017";
 
 const dbname = "fruitsDB";
